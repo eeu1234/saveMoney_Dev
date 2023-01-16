@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3b5cdb5f-4847-49ca-9420-939ff050c46d" name="dev" url="http://eeu1234.iptime.org:40004">
+        <fileTransfer rootFolder="/dev_saveMoney" accessType="SFTP" host="doyounglee.synology.me" port="22" sshConfigId="2b1ae33e-779b-4201-93dd-88ec8430cd55" sshConfig="adam@doyounglee.synology.me:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
